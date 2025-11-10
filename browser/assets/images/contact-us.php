@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Emerge Engineering</title>
+<style>	
+	.main-newsletter {display:none}
+</style>	
+	
+	<?php include("header.php")?>
+
+    <!--Banner Start-->
+    <section class="main-banner-in jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/contact-us-banner.jpg);">
+        <div class="banner-in-aliment1 animate-this">
+            <img src="assets/images/banner-aliment.png" alt="aliment">
+        </div>
+        <div class="banner-in-aliment2 animate-this">
+            <img src="assets/images/banner-aliment.png" alt="aliment">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 justify-content-center">
+                    <div class="banner-in-title">
+                        <h1 class="h1-title">Contact Us</h1>
+                    </div>
+                    <div class="banner-in-bredcrum">
+                        <ul>
+                            <li><a href="index.php">Home</a></li>
+                            <li><div class="breadcrum-object"></div></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Banner End-->
+
+
+
+<?php include("form-section.php")?>
+
+
+
+
+
+    <!--Contact Box Start-->
+        <section class="main-contact-box-in pt-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="contact-box">
+                            <div class="contact-in-icon">
+                                <img src="assets/images/contact-mail.png" alt="mail">
+                            </div>
+                            <div class="contact-in-content">
+                                <h3 class="h3-title">Email:</h3>
+                                <span>info@emergeengg.com</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="contact-box">
+                            <div class="contact-in-icon">
+                                <img src="assets/images/contact-call.png" alt="call">
+                            </div>
+                            <div class="contact-in-content">
+                                <h3 class="h3-title">Phone:</h3>
+                                <span>+91 90035 85762</span><br>
+                                <span>+91 99007 66003</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="contact-box">
+                            <div class="contact-in-icon">
+                                <img src="assets/images/contact-location.png" alt="Location">
+                            </div>
+                            <div class="contact-in-content">
+                                <h3 class="h3-title">Location:</h3>
+                                <span>325 Himagiri Tower, <br>Opp RTO Mallathahalli, Kengeri, <br>Bangalore - 560110</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    <!--Contact Box End-->
+
+    <!--Map Start-->
+    <div class="main-contact-map-inn">
+		
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.6734555853886!2d80.21189131527004!3d12.992725517928692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526732ac66c1d5%3A0x7ec10c5d7da3354b!2sSureshlakshmi!5e0!3m2!1sen!2sin!4v1643735781662!5m2!1sen!2sin" width="100%" height="0" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    <!--Map End-->
+
+
+<?php include("footer.php")?>
