@@ -1,0 +1,40 @@
+{
+  "hash": "2b815000",
+  "configHash": "9fa487aa",
+  "lockfileHash": "29fcaa26",
+  "browserHash": "ba18148c",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ceb540e6",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "ff077554",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "b5b6f494",
+      "needsInterop": false
+    },
+    "@fortawesome/angular-fontawesome": {
+      "src": "../../../../../../node_modules/@fortawesome/angular-fontawesome/fesm2022/angular-fontawesome.mjs",
+      "file": "@fortawesome_angular-fontawesome.js",
+      "fileHash": "36ef4e97",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YVKSGLGL": {
+      "file": "chunk-YVKSGLGL.js"
+    },
+    "chunk-3TKNJ5LJ": {
+      "file": "chunk-3TKNJ5LJ.js"
+    }
+  }
+}
